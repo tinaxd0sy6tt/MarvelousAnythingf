@@ -9,9 +9,6 @@
   <a href="https://github.com/Thearchermancoding/The-Monty-Hall-Problem/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Thearchermancoding/The Monty Hall Problem" />
-  </a>
 </p>
 
 > The Monty Hall Problem. I made this when I was just learning java. I just now put it on GitHub. I also added some more functionality that wasn't there before.
