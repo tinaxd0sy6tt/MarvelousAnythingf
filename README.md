@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> The Monty Hall Problem. I made this when I was just learning java. I just now put it on GitHub. I also added some more functionality that wasn't there before.
+> The Monty Hall Problem. I made this when I was just starting to learn java. I just now put it on GitHub. I also added some more functionality that wasn't there before.
 
 ## Usage
 
